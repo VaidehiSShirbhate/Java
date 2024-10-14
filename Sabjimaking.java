@@ -57,8 +57,8 @@ public class Sabjimaking{
 		System.out.println("Add a sabji in pan");
 	}
 
-	public static void waitForCook(int time){
-		System.out.println("After that you have to wait "+ time +" min for baji to cook");
+	public static void waitForCook(int hours){
+		System.out.println("After that you have to wait "+ hours +" min for baji to cook");
 	}
 
 }
